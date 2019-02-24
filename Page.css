@@ -7,7 +7,7 @@
 header
 {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(nature.jpg);
-	height: 100vh;
+	height: 120vh;
 	background-size: cover;
 	background-position: center;
 }
@@ -112,3 +112,37 @@ h1
 	transition: all 0.5s ease-in 
 }
 
+.btn-three 
+{
+	background-color: darkorange;
+	font-family:"Roboto", sans-serif;
+	
+}
+
+.btn-four 
+{
+	background-color: darkorange;
+	font-family:"Roboto", sans-serif;
+	
+}
+
+.btn-five 
+{
+	background-color: darkorange;
+	font-family:"Roboto", sans-serif;
+	
+}
+
+.btn-six 
+{
+	background-color: darkorange;
+	font-family:"Roboto", sans-serif;
+	
+}
+
+.btn-seven 
+{
+	background-color: darkorange;
+	font-family:"Roboto", sans-serif;
+	
+}
